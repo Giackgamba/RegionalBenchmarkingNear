@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,400italic,700);
+
+.skin-blue .main-header .logo {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  background-color: #670724;
+  position: fixed;
+}
+
+.skin-blue .main-header .navbar-static-top {
+    position: fixed;
+    width: 100%;
+}
+
+.skin-blue .main-header .logo:hover {
+    background-color: #670724;
+}
+
+.skin-blue .main-header .navbar {
+  font-family: "Titillium Web", sans-serif;
+  background-color: #8B1F3F;
+}
+
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+    background-color: #670724;
+}
+
+body {
+    font-family: "Titillium Web", sans-serif;
+}
+
+h1 {
+    font-family: "Titillium Web", sans-serif;
+}
+.box {
+    border-top-color: #670724;
+}
+
+.box-header {
+    background-color: #8B1F3F;
+    color: #fff;
+    font-family: "Titillium Web", sans-serif;
+}
+
+.box-title {
+    font-family: "Titillium Web", sans-serif;
+}
+
+.btn-box-tool {
+    color: #fff;
+}
+
+.content-wrapper {
+    margin-top: 30px;
+}
+
+.skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
+    border-left-color: #8B1F3F;
+}
+
+.selectize-input.focus {
+    border-color: #8B1F3F;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 
+    0 0 8px rgba(139, 31, 64, 0.6);
+}
+
+.nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: #8B1F3F;
+}
+
+.sidebar {
+    width: 380px;
+    white-space: nowrap;
+    overflow: visible;
+}
+
+.content-wrapper {
+    min-height: 1350px !important;
+}
+
+.leaflet-container {
+    background: #ddd;
+}
+
+.nav-tabs-custom>.nav-tabs {
+    background: #e6e6e6;
+}
+
+.leaflet-popup-content {
+    color: black;
+    margin: 0 4px 0 4px;
+}
+
+#DataTables_Table_0 tbody th, #DataTables_Table_0 tbody td {
+    padding: 2px 2px !important;
+}

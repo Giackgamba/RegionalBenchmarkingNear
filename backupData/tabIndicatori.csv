@@ -1,0 +1,22 @@
+idDataFlow;idSettore;nome;descriz;concepts;direction
+4;1;demo_r_frate2;Tasso di fertilita';FREQ.AGE;+
+5;1;demo_r_minfind;Tasso di mortalita' infantile;FREQ;-
+8;1;demo_r_mlifexp;Aspettativa di vita a 65 anni;FREQ.SEX.AGE;+
+10;2;hlth_cd_acdr;Tasso di mortalita' per tumore;FREQ.UNIT.SEX.AGE.ICD10;-
+11;2;hlth_cd_acdr;Tasso di mortalita' per incidenti;FREQ.UNIT.SEX.AGE.ICD10;-
+12;2;hlth_cd_acdr;Tasso di mortalita' per malattie cardio-circolatorie;FREQ.UNIT.SEX.AGE.ICD10;-
+13;3;edat_lfse_16;Abbandoni precoci del sistema scolastico;FREQ.UNIT.SEX.AGE;-
+16;3;edat_lfse_12;Popolazione 30-34 anni con diploma di istruzione terziaria;FREQ.SEX.ISCED11.AGE.UNIT;+
+17;4;sbs_r_nuts06_r2;Unita' locali;FREQ.NACE_R2.INDIC_SB;+
+18;4;nama_10r_2hhinc;Reddito disponibile delle famiglie;FREQ.UNIT.NA_ITEM;+
+20;4;nama_10r_2coe;Redditi da lavoro dipendente;FREQ.CURRENCY.NACE_R2;+
+22;1;demo_r_gind3;Tasso di incremento naturale;FREQ.INDIC_DE;+
+23;5;lfst_r_lfp2actrt;Tasso di attivita' (15-64 anni);FREQ.UNIT.SEX.AGE;+
+24;5;lfst_r_lfe2emprt;Tasso di occupazione (15-64 anni);FREQ.UNIT.SEX.AGE;+
+25;5;lfst_r_lfu3rt;Tasso di disoccupazione (15+ anni);FREQ.UNIT.AGE.SEX;-
+28;5;lfst_r_lfu3rt;Tasso di disoccupazione giovanile;FREQ.UNIT.AGE.SEX;-
+30;4;nama_10r_2gdp;Pil procapite in PPS;FREQ.UNIT;+
+31;6;tour_occ_arn2;Arrivi;FREQ.INDIC_TO.UNIT.NACE_R2;+
+32;7;isoc_r_iacc_h;Famiglie con accesso a internet;FREQ.INDIC_IS.UNIT;+
+33;7;isoc_r_iuse_i;Persone che accedono a internet almeno una volta a settimana;FREQ.INDIC_IS.UNIT;+
+34;8;tran_r_vehst;Autovetture per 1000 abitanti;FREQ.VEHICLE.UNIT;-
